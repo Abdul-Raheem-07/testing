@@ -1,2 +1,3 @@
 # testing
-1d arrays questions, &lt;br> Will share a moderate-level 2D question later.
+1d arrays questions, <br> 
+Will share a moderate-level 2D question later.
