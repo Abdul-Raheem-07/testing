@@ -1,3 +1,3 @@
 # testing
-1d arrays questions, <br> 
-Will share a moderate-level 2D question later.
+Other than that, I also have some handwritten notes. <br> 
+
